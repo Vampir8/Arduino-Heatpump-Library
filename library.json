@@ -1,0 +1,20 @@
+{
+  "name": "Heat Pump",
+  "version": "0.2.0",
+  "keywords": "Heat pump, controller, signal",
+  "description": "A Heat pump controller seeks to keep some input variable close to a desired setpoint by adjusting an output. The way in which it does this can be 'tuned'",
+  "homepage": "",
+  "authors":
+  [
+    {
+      "name": "Vampir8"
+    }
+  ],
+  "repository":
+  {
+    "type": "git",
+    "url": "https://github.com/Vampir8/Arduino-Heatpump-Library.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "*"
+}
